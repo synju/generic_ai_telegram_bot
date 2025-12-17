@@ -1,6 +1,0 @@
-{
-	"telegram_token": "TELEGRAM_BOT_TOKEN",
-	"api_key": "OPENROUTERAI_API_KEY",
-	"base_url": "https://openrouter.ai/api/v1",
-	"model": "moonshotai/kimi-k2-0905"
-}
